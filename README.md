@@ -1,5 +1,16 @@
 # Tic-Tac-Toe-Console-Application
 
+To run the game in Dart, follow these steps:
+
+1. Install Dart SDK on your computer.
+2. Open a terminal or command prompt and navigate to the directory where the game file is located.
+3. Run the code 
+    
+    
+4. Follow the prompts in the terminal to play the game.
+
+Enjoy the game!
+
 ## **Rules**
 
 - The game board consists of a 3x3 grid, and players take turns placing their shapes ('X' or 'O') on the board.
